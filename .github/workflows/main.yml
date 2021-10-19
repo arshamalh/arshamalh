@@ -45,8 +45,6 @@ jobs:
           plugin_stackoverflow_sections: ''
           plugin_stackoverflow_lines: 0
           plugin_stackoverflow_limit: 1
-          
-          
-          plugin_languages_skipped: conan-center-index
+          plugin_languages_skipped: css, html
           plugin_projects: yes
           plugin_isocalendar: yes
