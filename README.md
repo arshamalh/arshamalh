@@ -5,7 +5,7 @@
 
 <!-- BADGES -->
 <p align="center">
-	<a href="https://github.com/arshamalh/arshamalh/blob/master/arshamAryaResume.pdf">
+	<a href="https://github.com/arshamalh/arshamalh/arshamAryaResume.pdf">
   		<img src="https://img.shields.io/badge/Resume-link-green" />
 	</a>
 	<a href="https://www.linkedin.com/in/arshamalh/">
