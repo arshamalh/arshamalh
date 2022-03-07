@@ -3,6 +3,7 @@
 <!-- HEADER -->
 [![MasterHead](header.png)](https://github.com/arshamalh)
 
+## Info
 <!-- BADGES -->
 <p align="center">
 	<a href="https://github.com/arshamalh/arshamalh/raw/main/arshamAryaResume.pdf">
