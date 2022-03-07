@@ -21,10 +21,11 @@ whoAmI := map[string]interface{}{
 	"name":            "Arsham",
 	"profession":      "Fullstack Developer",
 	"location":        "Iran",
-	"languages":       []string{"Javascript", "Python", "Go", "Rust"},
-	"databases":       []string{"PostgreSQL", "MySQL", "MongoDB"},
+	"languages":       []string{"Javascript", "Python", "Go", "Rust", "Solidity"},
+	"databases":       []string{"PostgreSQL", "MongoDB", "Redis", "MySQL"},
+	"frameworks":      []string{"ExpressJS", "FastAPI", "Gin", "Socket.io", "NextJS"}
 	"interests":       []string{"Blockchain", "Web development", "Cloud", "IoT"},
-	"design":          []string{"Eventdriven development", "Microservices"},
+	"design":          []string{"Microservices", "Eventdriven development"},
 	"tools":           []string{"Docker", "Git"},
 	"systems":         []string{"MacOS", "Linux", "Windows"},
 }
