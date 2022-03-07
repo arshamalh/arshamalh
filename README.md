@@ -1,11 +1,11 @@
 # Arsham Arya 💎
 
 <!-- HEADER -->
-[![MasterHead](assets/header.png)](https://github.com/arshamalh)
+[![MasterHead](header.png)](https://github.com/arshamalh)
 
 <!-- BADGES -->
 <p align="center">
-	<a href="https://github.com/arshamalh/arshamalh/blob/master/arshamAryaResumeResume.pdf">
+	<a href="https://github.com/arshamalh/arshamalh/blob/master/arshamAryaResume.pdf">
   		<img src="https://img.shields.io/badge/Resume-link-green" />
 	</a>
 	<a href="https://www.linkedin.com/in/arshamalh/">
