@@ -1,4 +1,4 @@
-# Hey there! I'm Arsham Arya 😉
+# Hi there! I'm Arsham Arya 😉
 
 <!-- HEADER -->
 [![MasterHead](header.png)](https://github.com/arshamalh)
@@ -40,23 +40,23 @@ whoAmI := map[string]interface{}{
 
 <div align="center">
 <p align="center"></p>
-<a href="https://www.twitter.com/arshamalh/">
+<a href="https://www.twitter.com/arshamalh/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 	
-<a href="https://www.linkedin.com/in/arshamalh/">
+<a href="https://www.linkedin.com/in/arshamalh/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://medium.com/@arshamalh">
+<a href="https://medium.com/@arshamalh" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/12972198/arsham">
+<a href="https://stackoverflow.com/users/12972198/arsham" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
-<a href="mailto:arshamalh@gmail.com">
+<a href="mailto:arshamalh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c20006?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -67,7 +67,7 @@ whoAmI := map[string]interface{}{
 
 ## Interests
 <p align="center">
-	<a href="arshamalh.com">
-		<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=2000&center=true&lines=Full-stack+Web+Development;Blockchain;Internet+Of+Things">
+	<a href="http://arshamalh.com" target="_blank">
+		<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&center=true&lines=Full-stack+Web+Development;Blockchain;Internet+Of+Things">
 	</a>
 </p>
