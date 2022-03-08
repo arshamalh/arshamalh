@@ -1,9 +1,43 @@
-# Hey there, I'm  Arsham Arya.
+# Hey there! I'm Arsham Arya 😉
 
 <!-- HEADER -->
 [![MasterHead](header.png)](https://github.com/arshamalh)
 
-## Let's connect! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Info
+```go
+whoAmI := map[string]interface{}{
+	"name":            "Arsham",
+	"profession":      "Fullstack Developer",
+	"location":        "Iran",
+	"languages":       []string{"Javascript", "Python", "Go", "Rust", "Solidity"},
+	"databases":       []string{"PostgreSQL", "MongoDB", "Redis", "MySQL"},
+	"frameworks":      []string{"ExpressJS", "FastAPI", "Gin", "Socket.io", "NextJS"}
+	"design":          []string{"Microservices", "Eventdriven development"},
+	"tools":           []string{"Docker", "Git"},
+	"systems":         []string{"MacOS", "Linux", "Windows"},
+}
+``` 
+
+## Statistics
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=arshamalh&show_icons=true&theme=algolia&line_height=40">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arshamalh&theme=algolia">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=arshamalh&show_icons=true&locale=en&theme=radical&line_height=20&layout=compact" />
+</p>
+
+<p align = "center">
+  
+</p>
+
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=arshamalh&theme=react-dark">
+</p> 
+
+## Let's connect! 
+<!-- Hand shake: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+
 <div align="center">
 <p align="center"></p>
 <a href="https://www.twitter.com/arshamalh/">
@@ -31,35 +65,9 @@
 </a>
 </div>
 
-## Info
-```go
-whoAmI := map[string]interface{}{
-	"name":            "Arsham",
-	"profession":      "Fullstack Developer",
-	"location":        "Iran",
-	"languages":       []string{"Javascript", "Python", "Go", "Rust", "Solidity"},
-	"databases":       []string{"PostgreSQL", "MongoDB", "Redis", "MySQL"},
-	"frameworks":      []string{"ExpressJS", "FastAPI", "Gin", "Socket.io", "NextJS"}
-	"interests":       []string{"Blockchain", "Web development", "Cloud", "IoT"},
-	"design":          []string{"Microservices", "Eventdriven development"},
-	"tools":           []string{"Docker", "Git"},
-	"systems":         []string{"MacOS", "Linux", "Windows"},
-}
-``` 
-
-## Statistics
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=arshamalh&show_icons=true&theme=algolia&line_height=40">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arshamalh&theme=algolia">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=arshamalh&show_icons=true&locale=en&theme=radical&line_height=20&layout=compact" />
+## Interests
+<p align="center">
+	<a href="arshamalh.com">
+		<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=2000&center=true&lines=Full-stack+Web+Development;Blockchain;Internet+Of+Things">
+	</a>
 </p>
-
-<p align = "center">
-  
-</p>
-
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=arshamalh&theme=react-dark">
-</p> 
