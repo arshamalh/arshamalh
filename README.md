@@ -67,7 +67,7 @@ whoAmI := map[string]interface{}{
 
 ## Interests
 <p align="center">
-	<a href="http://arshamalh.com" target="_blank">
+	<a href="http://arshamalh.github.io" target="_blank">
 		<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&center=true&lines=Full-stack+Web+Development;Blockchain;Internet+Of+Things">
 	</a>
 </p>
