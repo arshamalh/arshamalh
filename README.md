@@ -48,11 +48,11 @@ whoAmI := map[string]interface{}{
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://medium.com/@arshamalh" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+<a href="https://dev.to/arshamalh" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-12100E?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/12972198/arsham" target="_blank">
+<a href="https://stackoverflow.com/users/12972198/arsham-arya" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
@@ -60,14 +60,19 @@ whoAmI := map[string]interface{}{
     <img src="https://img.shields.io/badge/-Gmail-c20006?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/arshamalh/arshamalh/raw/main/arshamAryaResume.pdf">
+<a href="https://github.com/arshamalh/arshamalh/raw/main/resume.pdf">
 	<img src="https://img.shields.io/badge/-Resume-10a100?style=for-the-badge&logoColor=white" />
 </a>
 </div>
 
+## Feed me back!
+Give anonymous feedback to help me to be a better me!
+
+http://whatiswrongwith.me/arshamalh
+
 ## Interests
 <p align="center">
 	<a href="http://arshamalh.github.io" target="_blank">
-		<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&center=true&lines=Full-stack+Web+Development;Blockchain;Internet+Of+Things">
+		<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&center=true&lines=Full-Stack;Blockchain;Clouds">
 	</a>
 </p>
