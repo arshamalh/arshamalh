@@ -1,4 +1,4 @@
-# Hi there! I'm Mohammad Reza Karimi (sometimes known as Arsham Arya) 😉
+# Hi there! I'm Mohammad Reza Karimi 😉 (sometimes known as Arsham Arya)
 
 <!-- HEADER -->
 <!-- [![MasterHead](header.png)](https://github.com/arshamalh) -->
