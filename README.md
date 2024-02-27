@@ -1,4 +1,4 @@
-# Hi there! I'm Mohammad Reza Karimi 😉 (sometimes known as Arsham Arya)
+# Hi there! I'm Mohammad Reza Karimi 😉
 
 <!-- HEADER -->
 <!-- [![MasterHead](header.png)](https://github.com/arshamalh) -->
@@ -6,15 +6,15 @@
 ## Info
 ```go
 whoAmI := map[string]interface{}{
-	"name":            "Arsham",
-	"profession":      "Fullstack Developer",
+	"name":            "Mohammad Reza",
+	"nick name": 	   "Arsham",
+	"profession":      "Backend Software Engineer",
 	"location":        "Iran",
 	"languages":       []string{"Go", "Javascript", "Python", "Solidity"},
 	"databases":       []string{"PostgreSQL", "MongoDB", "Redis", "MySQL"},
 	"frameworks":      []string{"ExpressJS", "Gin", "FastAPI", "SvelteJS", "NextJS"}
-	"design":          []string{"Microservices", "Eventdriven development"},
-	"tools":           []string{"Docker", "Git"},
-	"systems":         []string{"MacOS", "Linux", "Windows"},
+	"design":          []string{"Microservices", "Event-driven development"},
+	"tools":           []string{"Kubernetes", "Docker", "Git"},
 }
 ``` 
 
