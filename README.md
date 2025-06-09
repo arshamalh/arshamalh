@@ -1,4 +1,4 @@
-# Hi there! I'm Mohammad Reza Karimi 😉
+# I'm Arsham, a brave software engineer who wants to change the world! 😉
 
 <!-- HEADER -->
 <!-- [![MasterHead](header.png)](https://github.com/arshamalh) -->
@@ -30,11 +30,6 @@ whoAmI := map[string]interface{}{
   
 </p>
 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=arshamalh&theme=react-dark">
-</p> 
-
 ## Let's connect! 
 <!-- Hand shake: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
@@ -60,9 +55,9 @@ whoAmI := map[string]interface{}{
     <img src="https://img.shields.io/badge/-Gmail-c20006?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/arshamalh/arshamalh/raw/main/resume.pdf">
-	<img src="https://img.shields.io/badge/-Resume-10a100?style=for-the-badge&logoColor=white" />
-</a>
+<!-- <a href="https://github.com/arshamalh/arshamalh/raw/main/resume.pdf">
+	Resume
+</a> -->
 </div>
 
 ## Feed me back!
@@ -73,6 +68,6 @@ http://whatiswrongwith.me/arshamalh
 ## Interests
 <p align="center">
 	<a href="http://arshamalh.github.io" target="_blank">
-		<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&center=true&lines=Full-Stack;Blockchain;Clouds">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Philosophy;System+Thinking;Astronomy">
 	</a>
 </p>
